@@ -1,0 +1,9 @@
+name: ServerMonitor
+version: ${project.version}
+main: de.marvinleiers.servermonitor.ServerMonitor
+api-version: 1.13
+authors: [Marvin2k0]
+description: Monitoring server performance
+website: www.marvinleiers.de
+commands:
+  t:
